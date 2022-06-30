@@ -1,0 +1,3 @@
+interface Serializable {
+    String serialize();
+}
